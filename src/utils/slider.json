@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Residencial Jardim do Sol",
+    "price": "1.300.000",
+    "detail": "Rua do Bosque, 101, Jardim das Estrelas, Belo Horizonte, MG, 30123-456",
+    "image": "./imgs/r1.png"
+  },
+  {
+    "name": "Vila das Palmeiras",
+    "price": "1.300.000",
+    "detail": "Avenida das Rosas, 345, Parque Central, Campinas, SP, 13090-789",
+    "image": "./imgs/r2.png"
+  },
+  {
+    "name": "Condomínio Vista Alegre",
+    "price": "1.300.000",
+    "detail": "Rua das Acácias, 678, Bairro Novo Horizonte, Porto Alegre, RS, 90040-123",
+    "image": "./imgs/r3.png"
+  },
+  {
+    "name": "Residencial Jardim do Sol",
+    "price": "1.300.000",
+    "detail": "Rua do Bosque, 101, Jardim das Estrelas, Belo Horizonte, MG, 30123-456",
+    "image": "./imgs/r1.png"
+  },
+  {
+    "name": "Vila das Palmeiras",
+    "price": "1.300.000",
+    "detail": "Avenida das Rosas, 345, Parque Central, Campinas, SP, 13090-789",
+    "image": "./imgs/r2.png"
+  },
+  {
+    "name": "Condomínio Vista Alegre",
+    "price": "1.300.000",
+    "detail": "Rua das Acácias, 678, Bairro Novo Horizonte, Porto Alegre, RS, 90040-123",
+    "image": "./imgs/r3.png"
+  }
+]
